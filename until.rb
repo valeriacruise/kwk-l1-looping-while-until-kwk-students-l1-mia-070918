@@ -3,4 +3,7 @@ def wingardium_leviosa
   until wingardium_leviosa==10
   puts "Wingardium Leviosa"
   wingardium_leviosa+= 1
-  
+  end
+end  
+
+wingardium_leviosa
