@@ -1,1 +1,1 @@
-def wing
+def wingardium_leviosa
