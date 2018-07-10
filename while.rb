@@ -1,9 +1,9 @@
-def wingardium_leviosa
-  wingardium_leviosa= 6
-  while wingardium_leviosa< 10
+def using_while
+ levitation_force= 6
+  while levitation_force< 10
   puts "Wingardium Leviosa"
-  wingardium_leviosa+= 1
+  levitation_force+= 1
   end
 end
 
-wingardium_leviosa
+using_while
